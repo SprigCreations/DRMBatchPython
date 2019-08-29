@@ -1,4 +1,4 @@
-# Sprig Creation - 8/9/2019
+# Sprig Creations - 8/9/2019
 # Functions with parameters for running exports, books, action scripts
 import subprocess
 import sys

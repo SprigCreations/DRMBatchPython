@@ -1,4 +1,4 @@
-# Sprig Creation - 8/9/2019
+# Sprig Creations - 8/9/2019
 # Assign connection required details
 import sys
 from enum import Enum

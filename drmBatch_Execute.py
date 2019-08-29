@@ -1,4 +1,4 @@
-# Sprig Creation - 8/9/2019
+# Sprig Creations - 8/9/2019
 # Sample script calls to run exports, books and action script files
 # import DRM batch client function definition
 import sys
